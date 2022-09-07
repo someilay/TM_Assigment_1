@@ -20,7 +20,7 @@
     ```
 
 4. Activate environment ([guide](https://docs.python.org/3/tutorial/venv.html#creating-virtual-environments)) 
-   and install Manim package ([installation](https://3b1b.github.io/manim/getting_started/installation.html)).
+   and install Manim package ([installation](https://docs.manim.community/en/stable/installation.html)).
 
 5. Render scenes by executing:
     ```shell
